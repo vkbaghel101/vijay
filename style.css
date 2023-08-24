@@ -1,0 +1,229 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: red;
+   height: 25px;
+    width: 100%;
+    
+    
+}
+header ul{
+    list-style-type: none;
+}
+header ul li{
+float: right;
+padding-right: 20px;
+    
+}
+nav{
+    border-bottom: 4px solid red;
+    width: 100%;
+    height: 80px;
+    
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    float: right;
+}
+.home{
+    padding-bottom: 50px;
+}
+.main{
+    padding: 70px;
+}
+.heading{
+    padding: 20px 0px 20px 0px;
+}
+.nav-pills li{
+    padding: 0px 20px 0px 0px;   
+}
+
+.nav-pills li a{
+    border-radius: 10px;
+}
+.nav li a{
+    padding: 15px 20px;
+}
+.tab{
+    padding: 8%; 
+    background-color: antiquewhite;
+    
+}
+.tab ul{
+    padding-left: 1%;
+}
+.line{
+    padding: 10px;
+    border-bottom: 2px solid red;
+    border-left: 2px solid red;
+}
+.h4{
+    padding-top: 20px ;
+}
+.progress{
+    background-color: rgb(242,101,34);
+    height: 300px;
+    width: 100%;    
+}
+.img{
+    padding: 3%;
+}
+.pro{
+    color: aliceblue;
+    
+}
+.pro p{
+    border-bottom: 1px solid white;
+    
+}
+.qr{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.course{
+   padding-top: 3%;
+    
+}
+.course1{
+    width: 100%;
+    height: 650px;
+    border: 1px solid rgb(241,101,33);
+    border-radius: 12px;
+    
+}
+.course2{
+    width: 100%;
+    height: 350px;
+    border: 1px solid rgb(241,101,33);
+    border-radius: 12px;
+    
+}
+.tech{
+     
+    text-align: center; 
+    padding: 12px 50px;
+    border-radius: 12px;
+    background-color:rgb(241,101,33) ; 
+    margin: 50px 380px;
+}
+.icon{
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
+.story{
+    display: flex;
+    align-items: baseline;
+    box-sizing: border-box;
+    color: aliceblue;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.story p span{
+    display: block;
+}
+.story > div:nth-child(1) {
+    width: 215px;
+    background-color: #b02a30;
+    height: 130px;
+    text-align: center;
+    padding-top: 45px;
+    
+}
+.story > div:nth-child(2) {
+    width: 375px;
+    height: 130px;
+    background-color: #f26422;
+    padding-top: 45px;
+    box-sizing: border-box;
+    padding-left: 18px;
+    background-image: url(images/success-story.webp);
+}
+.deepalistory{
+    padding-top: 18px;
+}
+.deepali{
+    padding-top: 130px;
+}
+.deepalistory p {
+    position: relative;
+    font-size: 28px;
+    line-height: 38px;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.progress1{
+    background-color: rgb(242,101,34);
+    height: 240px;
+    width: 100%;    
+}
+.lastpic{
+
+    text-align: center;
+    max-width: 601px;
+    display: block;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bottom-leftright{
+    
+        position: relative;
+        background-color: #fff;
+        margin-top: 78px;
+    
+}
+.nextPre .col-md-6:first-child {
+    border-right: 1px solid #f26522;
+    padding-right: 0px;
+}
+
+.container {
+    width: 1170px;
+}
+.nextPre {
+    display: flex;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.leftarrow {
+    text-align: center;
+}
+.leftarrow a {
+    border-right: 0px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rightarrow {
+    text-align: center;
+}
+.bottom-leftright .rightarrow a {
+    color: #4d4d4f;
+}
+.rightarrow a {
+    border-left: 0px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rightarrow img {
+    margin-left: 30px;
+    width: 30px;
+}
+.rightarrow img {
+    margin-left: 30px;
+    width: 30px;
+}
